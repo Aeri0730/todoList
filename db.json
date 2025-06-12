@@ -2,9 +2,27 @@
   "todos": [
     {
       "id": "1",
-      "title": "첫 번째 할 일",
+      "title": "빨래하기",
       "completed": false,
       "createdAt": 1700000000000
+    },
+    {
+      "id": "3",
+      "title": "운동하기 (30분)",
+      "completed": true,
+      "createdAt": 1700064000000
+    },
+    {
+      "id": "4",
+      "title": "이메일 확인",
+      "completed": true,
+      "createdAt": 1700074800000
+    },
+    {
+      "id": "86ee",
+      "title": "요리하기",
+      "completed": false,
+      "createdAt": 1749707263386
     }
   ]
 }
