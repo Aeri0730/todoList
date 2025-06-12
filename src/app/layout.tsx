@@ -16,8 +16,10 @@ export default function RootLayout({
 }>) {
   return (
     <QueryClientProvider client={queryClient}>
-      <html lang="en">
-        <body>{children}</body>
+      <html lang="ko">
+        <body className="font-sans antialiased text-gray-800 bg-gray-50 min-h-screen flex items-center justify-center p-4 sm:p-6 md:p-8">
+          {children}
+        </body>
       </html>
     </QueryClientProvider>
   );

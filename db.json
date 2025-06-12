@@ -3,7 +3,8 @@
     {
       "id": "1",
       "title": "첫 번째 할 일",
-      "completed": false
+      "completed": false,
+      "createdAt": 1700000000000
     }
   ]
 }
