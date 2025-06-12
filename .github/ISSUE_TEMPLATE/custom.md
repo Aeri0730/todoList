@@ -1,3 +1,12 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: Setting
+assignees: Aeri0730
+
+---
+
 name: "✨ Feature"
 description: "새로운 기능 추가"
 labels: ["feature"]
