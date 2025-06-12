@@ -1,9 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import Providers from "@/components/Providers";
 
-const queryClient = new QueryClient();
 
 export const metadata: Metadata = {
   title: "TodoList",
